@@ -7,3 +7,4 @@
 <br />
 <h2>NULab for Texts, Maps, and Networks</h2>
 <p>The NULab for Texts, Maps, and Networks is Northeastern’s center for Digital Humanities and Computational Social Science. NULab supports faculty research projects; trains graduate students in DH and CSS skills; sponsors talks and symposia; and provides fora for discussions of technology, teaching, and research at Northeastern. It is supported by the College of Social Sciences and Humanities and the College of Computer and Information Sciences. Many of the projects associated with NULab are also supported by the DSG. You can visit the NULab website <a href=“http://www.northeastern.edu/nulab/“>here</a>.</p>
+<br />
