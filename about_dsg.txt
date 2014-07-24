@@ -1,3 +1,9 @@
 <h1>About the DSG</h1>
-<br />
 <p>At the Digital Scholarship Group, we work every day to expand our understanding of digital scholarship. We help build it through the tools we provide to help Northeastern’s researchers publish and preserve their research. We look for ways to strengthen Northeastern’s expertise in research methods that engage and question the effects of the digital medium on culture and communication. We teach researchers at all levels new techniques of representation, analysis, and dissemination that are transforming scholarly research. Working as an applied research team within the library, we seek out new tools and methods, test them on real-world projects, and make them available to the Northeastern community. Through collaborative partnerships with projects at Northeastern and at peer institutions around the globe, we build bridges of shared knowledge.</p>
+<br />
+<h1>DSG, DSC, and NULab</1>
+<h2>Digital Scholarship Commons (DSC)</h2>
+<p>Opened in Spring 2014, the Digital Scholarship Commons provides a space at Snell Library for faculty and doctoral students to access a range of services for digital scholarship. The DSC is also a space for collaboration, where faculty can host workshops, meet with students, and connect with scholars in other disciplines. Features of the space include a computer lab, interactive workspaces with multiple laptop connectors, and spaces for small-group meetings.</p>
+<br />
+<h2>NULab for Texts, Maps, and Networks</h2>
+<p>The NULab for Texts, Maps, and Networks is Northeastern’s center for Digital Humanities and Computational Social Science. NULab supports faculty research projects; trains graduate students in DH and CSS skills; sponsors talks and symposia; and provides fora for discussions of technology, teaching, and research at Northeastern. It is supported by the College of Social Sciences and Humanities and the College of Computer and Information Sciences. Many of the projects associated with NULab are also supported by the DSG. You can visit the NULab website <a href=“http://www.northeastern.edu/nulab/“>here</a>.</p>
